@@ -2,7 +2,7 @@
     <string name="imgur_base_url" translatable="false">http://i.imgur.com/</string>
     <string name="imgur_api_endpoint" translatable="false">https://api.imgur.com/3/gallery/search/top/all?q=foodporn</string>
     <string name="imgur_api_comment_endpoint" translatable="false">https://api.imgur.com/3/gallery/%1$s/comments/</string>
-    
+
     <string name="app_name">Cookview</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_image">Image View Activity</string>
