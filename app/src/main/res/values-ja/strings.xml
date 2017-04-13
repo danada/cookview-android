@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cookview</string>
+    <string name="action_settings">設定</string>
+    <string name="title_activity_image">映像を見る</string>
+
+    <string name="get_image_snackbar">読み込み中</string>
+    <string name="get_image_snackbar_connection_error">ネットワークエラーが発生しました</string>
+    <string name="get_image_snackbar_malformed_error">データエラーが発生しました</string>
+    <string name="anonymous_user">名無し</string>
+</resources>
